@@ -1,0 +1,58 @@
+.attribution {
+  margin-top: 5em;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution {
+  color: hsl(228, 45%, 44%);
+}
+/* -------------------------------------------------- */
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Karla", sans-serif;
+}
+
+.box {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-white {
+  background-color: rgb(201, 195, 195);
+}
+
+.cyan {
+  background-color: hsl(179, 62%, 43%);
+  color: #fff;
+}
+
+.light-cyan {
+  background-color: hsl(179, 55%, 58%);
+  color: #fff;
+}
+
+.text-cyan {
+  color: hsl(179, 62%, 43%);
+}
+
+.lightgreen {
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+}
+
+.text-lightgreen {
+  color: hsl(71, 73%, 54%);
+}
+
+.btn-lightgreen {
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+}
